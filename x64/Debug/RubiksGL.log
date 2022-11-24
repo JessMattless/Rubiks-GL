@@ -1,0 +1,5 @@
+﻿  cube.cpp
+  main.cpp
+D:\NTU\Year 1\Term 2\SOFT10101\project\RubiksGL\main.cpp(213,82): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Generating Code...
+  RubiksGL.vcxproj -> D:\NTU\Year 1\Term 2\SOFT10101\project\RubiksGL\x64\Debug\RubiksGL.exe
