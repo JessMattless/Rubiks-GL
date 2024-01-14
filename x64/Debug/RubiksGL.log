@@ -1,5 +1,18 @@
 ﻿  cube.cpp
+  cube_array.cpp
   main.cpp
-D:\NTU\Year 1\Term 2\SOFT10101\project\RubiksGL\main.cpp(213,82): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Coding_Projects\Rubiks-GL\main.cpp(213,82): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  save_file.cpp
+  The contents of <numbers> are available only with C++20 or later.
+  shaders.cpp
+  shaders.h
+  view.cpp
+C:\Coding_Projects\Rubiks-GL\view.cpp(54,29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Coding_Projects\Rubiks-GL\view.cpp(55,29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Coding_Projects\Rubiks-GL\view.cpp(62,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Coding_Projects\Rubiks-GL\view.cpp(63,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Coding_Projects\Rubiks-GL\view.cpp(106,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Coding_Projects\Rubiks-GL\view.cpp(107,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   Generating Code...
-  RubiksGL.vcxproj -> D:\NTU\Year 1\Term 2\SOFT10101\project\RubiksGL\x64\Debug\RubiksGL.exe
+x64\Debug\shaders.obj : warning LNK4042: object specified more than once; extras ignored
+  RubiksGL.vcxproj -> C:\Coding_Projects\Rubiks-GL\x64\Debug\RubiksGL.exe
